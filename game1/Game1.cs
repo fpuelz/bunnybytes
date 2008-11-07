@@ -57,7 +57,7 @@ namespace game1
             SceneGraph.Node node = new SceneGraph.Node(car);
             sceneGraph = new SceneGraph.SceneGraph(node);
 
-            sceneGraph.Camera.World = Matrix.CreateFromYawPitchRoll(0, -90, 90);
+            //sceneGraph.Camera.World = Matrix.CreateFromYawPitchRoll(0, -90, 90);
             sceneGraph.Camera.View = Matrix.CreateLookAt(new Vector3(0, 2, 5), Vector3.Zero, Vector3.Up);
             sceneGraph.Camera.Projection = Matrix.CreatePerspectiveFieldOfView(1,
                 GraphicsDevice.Viewport.AspectRatio, 1, 100); 
