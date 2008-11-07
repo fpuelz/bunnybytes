@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>car.x</Source>
+      <Name>car</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\car.xnb</Output>
+      <Time>2008-11-07T14:54:13.8290945+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\car_0.xml</Key>
+        <Value>2008-11-07T14:55:02.0447585+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\CHASIS_0.xnb</Request>
+      <Request>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\VENTANAS_0.xnb</Request>
+      <Request>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\CHASIS_A_0.xnb</Request>
+      <Request>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\RUEDAS_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>car.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\car_0.xml</Output>
+      <Time>2008-11-07T14:54:13.8290945+01:00</Time>
+    </Item>
+    <Item>
+      <Source>chasis.jpg</Source>
+      <Name>chasis</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\chasis.xnb</Output>
+      <Time>2008-11-07T14:55:21.3892235+01:00</Time>
+    </Item>
+    <Item>
+      <Source>chasis_a.jpg</Source>
+      <Name>chasis_a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\chasis_a.xnb</Output>
+      <Time>2008-11-07T14:55:21.411683+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CHASIS.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\CHASIS_0.xnb</Output>
+      <Time>2008-11-07T14:55:21.3892235+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ventanas.jpg</Source>
+      <Name>ventanas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\ventanas.xnb</Output>
+      <Time>2008-11-07T14:55:30.4687205+01:00</Time>
+    </Item>
+    <Item>
+      <Source>VENTANAS.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\VENTANAS_0.xnb</Output>
+      <Time>2008-11-07T14:55:30.4687205+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CHASIS_A.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\CHASIS_A_0.xnb</Output>
+      <Time>2008-11-07T14:55:21.411683+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ruedas.jpg</Source>
+      <Name>ruedas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\ruedas.xnb</Output>
+      <Time>2008-11-07T14:55:38.760182+01:00</Time>
+    </Item>
+    <Item>
+      <Source>RUEDAS.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\RUEDAS_0.xnb</Output>
+      <Time>2008-11-07T14:55:38.760182+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T18:42:32+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T18:43:28+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T18:43:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T18:48:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T18:48:50+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-11-01T18:36:15.2973775+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

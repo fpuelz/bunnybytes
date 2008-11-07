@@ -1,0 +1,17 @@
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\game1.exe
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\game1.pdb
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\BunnyBytesGame.dll
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\BunnyBytesGame.pdb
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\obj\x86\Debug\game1.exe
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\obj\x86\Debug\game1.pdb
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\car.xnb
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\chasis.xnb
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\chasis_a.xnb
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\CHASIS_0.xnb
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\ventanas.xnb
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\VENTANAS_0.xnb
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\CHASIS_A_0.xnb
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\ruedas.xnb
+C:\Users\Fieti\Documents\Visual Studio 2008\Projects\game1\game1\bin\x86\Debug\Content\RUEDAS_0.xnb
